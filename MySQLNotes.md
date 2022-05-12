@@ -167,7 +167,7 @@ Date Difference: DATEDIFF(<coulumn_name>/'dateTimeFormat', dateTimeFunc/'dateTim
 
 ```
 
-### Operators:
+## Operators:
 
 ```sql
   1.  Equal 							=
